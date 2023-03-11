@@ -10,8 +10,7 @@ class integer {
         System.out.println(c);
         System.out.println(car);
         System.out.println(d);
-        System.out.println(num4);
-        System.out.println(num3);
+        sou
         System.out.println(num1 + num2);
     }
 }
